@@ -60,6 +60,7 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         name: Build $(date +'%d.%m.%Y %R') 
+        tag-name: Build $(date +'%d.%m.%Y %R')
         files: |
           ./_site/cv.pdf
     
