@@ -56,6 +56,11 @@ jobs:
       run: bundle exec jekyll build
     - name: Generate pdf
       run: ruby make_pdf.rb
+    - name: Bump version and push tag
+      uses: anothrNick/github-tag-action@1.26.0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_OAUTH_TOKEN }}
+        WITH_V: true
     - name: Make release
       uses: softprops/action-gh-release@v1
       with:
