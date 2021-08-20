@@ -45,7 +45,9 @@ jobs:
     - name: Install xfonts
       run: sudo apt-get install -y xfonts-75dpi
     - name: Install wkhtmltox
-      run: sudo apt-get install wkhtmltox
+      run: | 
+        wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
+        sudo apt install ./wkhtmltox_0.12.6-1.focal_amd64.deb
     - name: Bundle Install
       run: bundle install
     - name: Install pdfkit
