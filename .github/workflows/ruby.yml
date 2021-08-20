@@ -44,8 +44,6 @@ jobs:
       run: sudo apt-get -qq update
     - name: Install xfonts
       run: sudo apt-get install -y xfonts-75dpi
-    - name: Download wkhtmltox
-      run: wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-trusty-amd64.deb
     - name: Install wkhtmltox
       run: sudo apt-get install wkhtmltox
     - name: Bundle Install
