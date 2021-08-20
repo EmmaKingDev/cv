@@ -19,10 +19,9 @@ jobs:
       DISPLAY: :99.0
       INJECT_CV_DOWNLOAD_LINK: NO
 
-    runs-on: ubuntu-latest
+    os: ubuntu-latest
 
-    with:
-      ruby-version: 2.5.1
+    ruby: 2.5.1
 
     steps:
     - uses: actions/checkout@v2
