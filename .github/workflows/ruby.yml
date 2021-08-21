@@ -18,6 +18,7 @@ jobs:
     env: 
       DISPLAY: :0
       INJECT_CV_DOWNLOAD_LINK: NO
+      BUILD_NAME: v$(date + '%d%m%Y%R') 
 
     runs-on: ubuntu-20.04
 
@@ -59,11 +60,11 @@ jobs:
     - name: Bump version and push tag
       uses: hole19/git-tag-action@master
       env:
-        TAG: Build $(date +'%d.%m.%Y %R')
+        TAG: ${{ env.BUILD_NAME }}
         GITHUB_TOKEN: ${{ secrets.GH_OAUTH_TOKEN }}
     - name: Make release
       uses: softprops/action-gh-release@v1
       with:
-        name: Build $(date +'%d.%m.%Y %R') 
+        name: ${{ env.BUILD_NAME }} 
         files: |
           ./_site/cv.pdf
