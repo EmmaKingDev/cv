@@ -36,7 +36,7 @@ To enable this;
 - Go to [github.com/settings/tokens](https://github.com/settings/tokens)
 - Generate a personal access token, give it `public_repo` permission
 - Go to the secrets settings of this github repo (the one that is your clone)
-  - https://github.com/<your gh username>/cv/settings/secrets/actions
+  - https://github.com/your-username-here/cv/settings/secrets/actions
   - Remember to change the username in the url above
 - Click "New repository secret" 
 - Name it `GH_OAUTH_TOKEN`
