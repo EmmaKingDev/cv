@@ -51,10 +51,10 @@ I added a feature which automatically adds the latest PDF version download link 
 This only works when automatic PDF version generation was set up (mentioned above).   
 This is done by javascript running on the page, it tries to fetch github's API to get the last release.  
 This link won't be generated in the PDF itself for several reasons;  
-- Lack of necessity, since you have the pdf there's need to download it again.
-- I didn't want to deal with all the troubles coming with executing javascript in pdf generation context
-- Travis CI blocks the request to github API i guess?
-- I disabled javascript on wkhtmltopdf, see 2 reasons above.
+- Lack of necessity, since you have the pdf there's no need to download it again.
+- I didn't want to figure out the issues with executing javascript in pdf generation context
+- ~~Travis CI blocks the request to github API i guess?~~ We don't use travis anymore, automation is moved to github actions
+- I disabled javascript on wkhtmltopdf, see reasons above.
 
 
 ## Running jekyll locally
