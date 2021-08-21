@@ -18,7 +18,6 @@ jobs:
     env: 
       DISPLAY: :0
       INJECT_CV_DOWNLOAD_LINK: NO
-      BUILD_NAME: v$(date + '%d%m%Y%R') 
 
     runs-on: ubuntu-20.04
 
@@ -28,6 +27,10 @@ jobs:
       with:
         ruby-version: 2.5.1 
         bundler-cache: false
+    - name: Set build name env
+      id: build-name
+      run: |
+        echo "::set-output name=value::v$(date +'%d%m%Y%R')"
     - name: Set up Ruby
     # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
     # change this to (see https://github.com/ruby/setup-ruby#versioning):
@@ -60,11 +63,12 @@ jobs:
     - name: Bump version and push tag
       uses: hole19/git-tag-action@master
       env:
-        TAG: ${{ env.BUILD_NAME }}
+        TAG: ${{ steps.build-name.outputs.value }}
         GITHUB_TOKEN: ${{ secrets.GH_OAUTH_TOKEN }}
     - name: Make release
       uses: softprops/action-gh-release@v1
       with:
-        name: ${{ env.BUILD_NAME }} 
+        name: ${{ steps.build-name.outputs.value }} 
+        tag_name: ${{ steps.build-name.outputs.value }}
         files: |
           ./_site/cv.pdf
