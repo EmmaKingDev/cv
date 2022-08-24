@@ -8,18 +8,21 @@ Generalist Software Developer
 
 | __E-Mail__   | [eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)              | 
 | __Website__  | [eralpkaraduman.com](https://eralpkaraduman.com)                         |
+| __Blog__     | [eralp.dev](https://eralp.dev)                                           |
 | __LinkedIn__ | [linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman) |
 | __Twitter__  | [twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)         |
 
 ## TLDR;
 
 - 14+ years in software dev
-- Now working as consultant making web & mobile apps using React, React Native and Flutter.
+- Now working on mobile internal tools at an autonomus delivery robot company.
+- Made web & mobile apps as a consultant using React, React Native and Flutter.
 - Full stack web developer for about 5+ years (react, psql, mongo, nodejs)
 - Worked in games industry on internal tools, CI/CD and infrastructure for about 2 years.
 - Mainly developed native iOS apps for about 6 years (swift, objc)
 - Worked on my own startup for a brief time
 - I was a Adobe Flash, ActionScript 2/3 developer when it used to be cool.
+- I do technical writing at my blog (eralp.dev)[eralp.dev], produce a comedy podcast and host live twitch shows about software development.
 - See below for code examples, open source personal projects.
 
 ## Currently
@@ -107,9 +110,11 @@ _Senior Flash Developer & Team Leader_
 - Built websites and  advergames (Flash), 
 - Rich media campaigns combining electronics & software.
 - Early AR applications with Flash's c++ runtime.
-- Worked as team leader of  of 6 (2012)
+- Worked as team lead of 6 (2012)
 
 ## Projects & Code Examples
+
+- `React Native Web, Android`: [github.com/eralpkaraduman/card-quest](https://github.com/eralpkaraduman/card-quest)
 
 - `Flutter, Dart, iOS, Android` : [github.com/eralpkaraduman/FlutterGameKid](https://github.com/eralpkaraduman/FlutterGameKid)
 
