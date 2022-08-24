@@ -22,7 +22,7 @@ Generalist Software Developer
 - Mainly developed native iOS apps for about 6 years (swift, objc)
 - Worked on my own startup for a brief time
 - I was a Adobe Flash, ActionScript 2/3 developer when it used to be cool.
-- I do technical writing at my blog (eralp.dev)[eralp.dev], produce a comedy podcast and host live twitch shows about software development.
+- I do technical writing at my blog [eralp.dev](eralp.dev), produce a comedy podcast and host live twitch shows about software development.
 - See below for code examples, open source personal projects.
 
 ## Currently
