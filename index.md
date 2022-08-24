@@ -15,7 +15,6 @@ Generalist Software Developer
 ## TLDR;
 
 - 14+ years in software dev
-- Now working on mobile internal tools at an autonomus delivery robot company.
 - Made web & mobile apps as a consultant using React, React Native and Flutter.
 - Full stack web developer for about 5+ years (react, psql, mongo, nodejs)
 - Worked in games industry on internal tools, CI/CD and infrastructure for about 2 years.
@@ -27,7 +26,7 @@ Generalist Software Developer
 
 ## Currently
 
-Based in Helsinki, Finland. Working on mobile apps as a consultant.
+Based in Helsinki, Finland. Now working on mobile internal tools at an autonomus delivery robot company.
 
 
 ### Specialized in
