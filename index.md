@@ -44,9 +44,14 @@ __Kadir Has University, Computer Science & Statistics Ba.__
 
 ## Occupation
 
-`March 2019 - now`
+`June 2022 - now`
+__Starship Technologies__, Helsinki  
+_Senior Software Engineer_
+
+
+`March 2019 - June 2022`
 __Qvik__, Helsinki  
-_Senior Software Developer_
+_Principal Software Engineer_
 
 
 `Jan 2017 - February 2019`
