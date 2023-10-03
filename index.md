@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Eralp Karaduman's CV
+title: Emma King's CV
 ---
 
-# Eralp Karaduman
+# Emma King
 Generalist Software Developer
 
 | __E-Mail__   | [eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)              | 
