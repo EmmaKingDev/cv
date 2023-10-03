@@ -6,8 +6,8 @@ title: Emma King's CV
 # Emma King
 DevOps Specialist
 
-| __E-Mail__   | [emma@emmaking.dev](mailto:emma@emmaking.dev)              | 
-| __Website__  | [emmaking.dev](https://emmaking.dev)                         |
+| __E-Mail__   | [emma@emmaking.dev](mailto:emma@emmaking.dev)                        |  
+| __Website__  | [emmaking.dev](https://emmaking.dev)                                 |  
 | __LinkedIn__ | [linkedin.com/in/emmakingdev/](https://linkedin.com/in/emmakingdev/) |
 
 ## TLDR;
@@ -34,16 +34,16 @@ Based in Helsinki, Finland. Working as a DevOps Specialist for a major client at
 ## Education
 
 `2014-2019`
-__University of Helsinki, Chemistry & Computer Science
+__University of Helsinki__, Chemistry & Computer Science
 
 `2011-2014`
-__University of Helsinki, Educational Psychology
+__University of Helsinki__, Educational Psychology
 
 
 ## Work
 
 `January 2023 - Current` 
-__Accenture, Helsinki
+__Accenture__, Helsinki  
 _DevOps Specialist_
 
 - Project's Subject Matter Expert on AWS
@@ -53,7 +53,7 @@ _DevOps Specialist_
 - Onboarding and training of new team members on AWS and on the customer's project
 
 `May 2022 - January 2023` 
-__Accenture, Helsinki
+__Accenture__, Helsinki  
 _Software Developer_
 
 - Worked on AWS focusing on Pipelines, CloudFormation, SRE and EKS
@@ -61,13 +61,13 @@ _Software Developer_
 - Worked with Robot Framework and Copado Robotic testing creating scripts for test automation
 
 `2019-2021`
-__Full time parental leave
+__Full time parental leave__
 
 `May 2017 - January 2018` 
-__Chemistry Lab Gadolin, University of Helsinki
+__Chemistry Lab Gadolin__, University of Helsinki  
 _Laboratory Instructor_
 
-- 
+- tbc
 
 
 ## Projects & Other
