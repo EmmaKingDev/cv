@@ -14,7 +14,7 @@ DevOps Specialist
 
 - Currently working as a DevOps Specialist at Accenture
 - Certified AWS Developer
-- Main focus on pipelines, IaC, SRE, kubernetes, test automation
+- Main focus on pipelines, IaC, SRE, Kubernetes, test automation
 - Versitile backgroung from edu. psychology & chemistry to computer science 
 - University of Helsinki alumni
 
@@ -47,9 +47,12 @@ __Accenture__, Helsinki
 _DevOps Specialist_
 
 - Project's Subject Matter Expert on AWS
+    - responsible for best practices on security and downsizing budget by streamlining to necessary services
 - Main focus on Site Reliability Engineering for Test Automation pipelines and Kubernetes on AWS EKS
+    - ability to focus on solving problems under time stress
 - IaC, especially CDK and CloudFormation
-- Custom Lambda code solution for integrating and automating results several API's
+    - took intiative to create a new EKS IaC solution for better maintainability & scalability
+- Custom Lambda code solution for integrating and automating results from several API's
 - Onboarding and training of new team members on AWS and on the customer's project
 
 `May 2022 - January 2023` 
