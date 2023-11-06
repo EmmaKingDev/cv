@@ -7,7 +7,7 @@ title: Emma King's CV
 DevOps Specialist
 
 | __E-Mail__   | [emma@emmaking.dev](mailto:emma@emmaking.dev)                        |  
-| __Website__  | [emmaking.dev](https://emmaking.dev)                                 |  
+| __Personal Projects__  | [emmaking.dev](https://emmaking.dev)                                 |  
 | __LinkedIn__ | [linkedin.com/in/emmakingdev/](https://linkedin.com/in/emmakingdev/) |
 
 ## TLDR;
@@ -70,11 +70,8 @@ __Full time parental leave__
 __Chemistry Lab Gadolin__, University of Helsinki  
 _Laboratory Instructor_
 
-- tbc
-
-
-## Projects & Other
-
-- `Place Holder`: [github.com/emmakingdev](https://github.com/emmakingdev)
+- Planned and organized lab visits for visitors, enhancing their understanding of chemistry concepts through hands-on experiences.
+- Showcased strong public speaking abilities and the ability to simplify complex scientific ideas for visitors.
+- Took responsibility of lab safety, ensuring a hazard-free environment.
 
 
