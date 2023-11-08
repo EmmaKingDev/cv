@@ -1,7 +1,7 @@
 [eralpkaraduman.github.io/cv]: https://eralpkaraduman.github.io/cv
 [latest release]: https://github.com/eralpkaraduman/cv/releases/latest
 
-# Source of Emma King's CV
+# Source of Emma King's CV template --> Forked from Eralp Karaduman
 
 | Website                       | PDF Version      |
 |----------------------------   |------------------|
