@@ -6,7 +6,7 @@ title: Emma King's CV
 # Emma King
 DevOps Specialist
 
-| __E-Mail__   | [emmailonaking@gmail.com](mailto:emmailonaking@gmail.com)                        |  
+| __E-Mail__   | [emma@emmaking.dev](mailto:emma@emmaking.dev)                        |  
 | __Personal Projects__  | [emmaking.dev](https://emmaking.dev)                                 |  
 | __LinkedIn__ | [linkedin.com/in/emmakingdev/](https://linkedin.com/in/emmakingdev/) |
 
