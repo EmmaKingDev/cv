@@ -16,7 +16,7 @@ DevOps Specialist
 - Certified AWS Developer
 - IaC for pipelines, lambdas, custom VPC's, Kubernetes
 - SRE duties, troubleshooting and maintanence, for pipelines and Kubernetes clusters
-- Versitile backgroung from edu. psychology & chemistry to computer science 
+- Versatile background from edu. psychology & chemistry to computer science 
 
 ## Currently
 
@@ -50,7 +50,7 @@ _DevOps Specialist_
 - Main focus on Site Reliability Engineering for Test Automation pipelines and Kubernetes on AWS EKS
     - ability to focus on solving problems under time stress
 - IaC, especially CDK and CloudFormation
-    - took intiative to create a new EKS IaC solution for better maintainability & scalability
+    - took initiative to create a new EKS IaC solution for better maintainability & scalability
 - Custom Lambda code solution for integrating and automating results from several API's
 - Onboarding and training of new team members on AWS and on the customer's project
 
