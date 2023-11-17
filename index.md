@@ -14,9 +14,9 @@ DevOps Specialist
 
 - Currently working as a DevOps Specialist at Accenture
 - Certified AWS Developer
-- Main focus on pipelines, IaC, SRE, Kubernetes, test automation
+- IaC for pipelines, lambdas, custom VPC's, Kubernetes
+- SRE duties, troubleshooting and maintanence, for pipelines and Kubernetes clusters
 - Versitile backgroung from edu. psychology & chemistry to computer science 
-- University of Helsinki alumni
 
 ## Currently
 
@@ -28,8 +28,7 @@ Based in Helsinki, Finland. Working as a DevOps Specialist for a major client at
 - AWS
 - IaC (CloudFormation, AWS CDK, Terraform)
 - Kubernetes
-- JS & Python, especially as custom Lambda solutions
-- Onboarding team members and assuring retention
+- JavaScript, Python & Bash
 
 ## Education
 
